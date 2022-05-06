@@ -1,2 +1,0 @@
-# chronometric-clock
-Relógio cronométrico
