@@ -17,7 +17,7 @@ Meu objetivo com essa interface foi a de clonar o layout do Facebook, famosa red
 Este projeto é uma landing page, desenvolvida apenas com HTML e CSS.
 </br>
 </br>
-<a href = "https://gleaming-basbousa-7fb94b.netlify.app/"><img  height="44" width="180" src="https://img.shields.io/badge/-Visualizar-9772FB?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://site-landing-page.netlify.app/"><img  height="44" width="180" src="https://img.shields.io/badge/-Visualizar-9772FB?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 ### _Terceiro projeto_
 <img src="https://github.com/MariaE-duarda/Imagens/blob/main/foto1.png?raw=true">
