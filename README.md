@@ -52,7 +52,7 @@ Esta é, novamente, outra landing page, desenvolvida com apenas HTML e CSS.
 <img src="https://github.com/MariaE-duarda/Imagens/blob/main/foto5.png?raw=true">
 Site que faz a formulação de QRCodes, apartir de palavras e links com riscos de 30%, tipo H.
 </br>
-<a href = "https://qrcode-page.netlify.app/"><img align="right" height="44" width="180" src="https://img.shields.io/badge/-Visualizar-F56D91?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://qrcode-page.netlify.app/"><img align="right" height="44" width="180" src="https://img.shields.io/badge/-Visualizar-406882?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 </br>
 
