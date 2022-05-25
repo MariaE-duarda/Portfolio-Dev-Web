@@ -73,6 +73,17 @@ Meu objetivo com essa interface foi a de clonar o layout do Instagram, famosa re
 
 <a href = "https://qrcode-page.netlify.app/"><img height="44" width="180" src="https://img.shields.io/badge/-Visualizar-417D7A?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
+</br>
+
+
+## _Sétimo projeto_
+<img src="https://github.com/MariaE-duarda/Imagens/blob/main/image%20game.png?raw=true">
+Landing Page construída a partir de HTML e CSS. 
+
+</br>
+</br>
+<a href = "https://landing-page-game.netlify.app/"><img align="right" height="44" width="180" src="https://img.shields.io/badge/-Visualizar-FF5D5D?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+
 
 
 
