@@ -84,6 +84,39 @@ Landing Page construída a partir de HTML e CSS.
 </br>
 <a href = "https://landing-page-game.netlify.app/"><img align="right" height="44" width="180" src="https://img.shields.io/badge/-Visualizar-FF5D5D?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
+</br>
+</br>
+</br>
 
+## _Oitavo projeto_
+<img src="https://github.com/MariaE-duarda/Imagens/blob/main/screenPortf%C3%B3lio.png?raw=true">
+Exemplo de portfólio usando animação no cabeçalho.
+
+</br>
+</br>
+
+<a href = "https://eduarda-araujo.netlify.app/"><img height="44" width="180" src="https://img.shields.io/badge/-Visualizar-646FD4?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+
+</br>
+
+## _Nono projeto_
+<img src="https://github.com/MariaE-duarda/Imagens/blob/main/instagram.png?raw=true">
+Interface de login do instagram.
+
+</br>
+</br>
+<a href = "https://login-with-instagram.netlify.app/"><img align="right" height="44" width="180" src="https://img.shields.io/badge/-Visualizar-CC9C75?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+
+</br>
+</br>
+
+## _Décimo projeto_
+<img src="https://github.com/MariaE-duarda/Imagens/blob/main/memoria.png?raw=true">
+Jogo da velha desenvolvido com HTML, CSS e JavaScript.
+
+</br>
+</br>
+
+<a href = "https://memoria-jogo.netlify.app/"><img height="44" width="180" src="https://img.shields.io/badge/-Visualizar-3BACB6?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 
