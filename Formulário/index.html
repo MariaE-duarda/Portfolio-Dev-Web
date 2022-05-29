@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!----======== CSS ======== -->
+    <link rel="stylesheet" href="style.css">
+     
+    <!----===== Iconscout CSS ===== -->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+
+    <title>Responsive Regisration Form </title> 
+</head>
+<body>
+    <div class="container">
+        <header>Registro</header>
+
+        <form action="#">
+            <div class="form first">
+                <div class="details personal">
+                    <span class="title">Dados Pessoais</span>
+
+                    <div class="fields">
+                        <div class="input-field">
+                            <label>Nome Completo</label>
+                            <input type="text" placeholder="Digite seu nome" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Data de aniversário</label>
+                            <input type="date" placeholder="Digite sua data de aniversário" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Email</label>
+                            <input type="text" placeholder="Digite seu email" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Número de telefone</label>
+                            <input type="number" placeholder="Digite seu número de telefone" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Gênero</label>
+                            <select required>
+                                <option disabled selected>Selecione seu gênero</option>
+                                <option>Masculino</option>
+                                <option>Feminino</option>
+                                <option>Outro</option>
+                            </select>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Ocupação</label>
+                            <input type="text" placeholder="Informe sua ocupação" required>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="details ID">
+                    <span class="title">Detalhes de Identidade</span>
+
+                    <div class="fields">
+                        <div class="input-field">
+                            <label>Tipo de identidade</label>
+                            <input type="text" placeholder="Digite o tipo de sua identidade" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Número de identidade</label>
+                            <input type="number" placeholder="Digite sua identidade" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Autoridade emitida</label>
+                            <input type="text" placeholder="Informe a autoridade" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Estado de emissão</label>
+                            <input type="text" placeholder="Informe o estado" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Data de emissão</label>
+                            <input type="date" placeholder="Informe a data" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Data de validade</label>
+                            <input type="date" placeholder="Informe a data de validade" required>
+                        </div>
+                    </div>
+
+                    <button class="nextBtn">
+                        <span class="btnText">Próximo</span>
+                        <i class="uil uil-navigator"></i>
+                    </button>
+                </div> 
+            </div>
+
+            <div class="form second">
+                <div class="details address">
+                    <span class="title">Informações do Endereço</span>
+
+                    <div class="fields">
+                        <div class="input-field">
+                            <label>Tipo de endereço</label>
+                            <input type="text" placeholder="Tipo de endereço" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Nacionalidade</label>
+                            <input type="text" placeholder="Digite a sua nacionalidade" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Estado</label>
+                            <input type="text" placeholder="Digite o estado" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Ditrito</label>
+                            <input type="text" placeholder="Informe o seu distrito" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Número da Casa</label>
+                            <input type="number" placeholder="Número da casa" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Número de enfermaria</label>
+                            <input type="number" placeholder="Número de enfermaria" required>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="details family">
+                    <span class="title">Detalhes Familiares</span>
+
+                    <div class="fields">
+                        <div class="input-field">
+                            <label>Nome do pai</label>
+                            <input type="text" placeholder="Nome do pai" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Nome da mãe</label>
+                            <input type="text" placeholder="Nome da mãe" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Avô</label>
+                            <input type="text" placeholder="Nome do avô" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Nome do Esposo(a)</label>
+                            <input type="text" placeholder="Digite o nome" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Sogro</label>
+                            <input type="text" placeholder="Nome do Sogro" required>
+                        </div>
+
+                        <div class="input-field">
+                            <label>Sogra</label>
+                            <input type="text" placeholder="Nome da Sogra" required>
+                        </div>
+                    </div>
+                    <div class="buttons">
+                        <div class="backBtn">
+                            <i class="uil uil-navigator"></i>
+                            <span class="btnText">Voltar</span>
+                        </div>
+                        
+                        <button class="sumbit">
+                            <span class="btnText">Enviar</span>
+                            <i class="uil uil-navigator"></i>
+                        </button>
+                    </div>
+                </div> 
+            </div>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
