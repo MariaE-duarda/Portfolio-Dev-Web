@@ -112,7 +112,7 @@ Interface de login do instagram.
 
 ## _Décimo projeto_
 <img src="https://github.com/MariaE-duarda/Imagens/blob/main/memoria.png?raw=true">
-Jogo da velha desenvolvido com HTML, CSS e JavaScript.
+Jogo da memória desenvolvido com HTML, CSS e JavaScript.
 
 </br>
 </br>
