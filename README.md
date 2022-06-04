@@ -119,4 +119,41 @@ Jogo da memória desenvolvido com HTML, CSS e JavaScript.
 
 <a href = "https://memoria-jogo.netlify.app/"><img height="44" width="180" src="https://img.shields.io/badge/-Visualizar-3BACB6?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
+</br>
+</br>
+
+## _Décimo primeiro projeto_
+<img src="https://github.com/MariaE-duarda/Imagens/blob/main/Formul%C3%A1rio.png?raw=true">
+Formulário criado com HTML e CSS.
+
+</br>
+</br>
+<a href = "https://form-complet.netlify.app/"><img align="right" height="44" width="180" src="https://img.shields.io/badge/-Visualizar-0AA1DD?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+
+</br>
+</br>
+</br>
+
+## _Décimo segundo primeiro_
+<img src="https://github.com/MariaE-duarda/Imagens/blob/main/dashboard.png?raw=true">
+Projeto dashboard com HTML e CSS.
+
+</br>
+</br>
+
+<a href = "https://dashboard-create.netlify.app/"><img height="44" width="180" src="https://img.shields.io/badge/-Visualizar-3BACB6?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+
+</br>
+</br>
+
+## _Décimo terceiro projeto_
+<img src="https://github.com/MariaE-duarda/Imagens/blob/main/jogo%20da%20for%C3%A7a.png?raw=true">
+Formulário criado com HTML e CSS.
+
+</br>
+</br>
+<a href = "https://jogo-da-forca-vanila.netlify.app/"><img align="right" height="44" width="180" src="https://img.shields.io/badge/-Visualizar-205375?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+
+</br>
+</br>
 
