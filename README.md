@@ -148,7 +148,7 @@ Projeto dashboard com HTML e CSS.
 
 ## _Décimo terceiro projeto_
 <img src="https://github.com/MariaE-duarda/Imagens/blob/main/jogo%20da%20for%C3%A7a.png?raw=true">
-Formulário criado com HTML e CSS.
+Jogo da forca criado do HTML, CSS e JavaScript Vanilla.
 
 </br>
 </br>
