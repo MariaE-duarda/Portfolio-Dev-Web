@@ -1,5 +1,5 @@
-# Portifolio Desenvolvimento Web
-Portfólio com projetos de desenvolvimento WEB. Para se ter uma ideia mais precisa de meus projetos, deixarei imagens dos sistemas web desenvolvidos por mim.
+# Portifolio de Desenvolvimento Web
+Portfólio com projetos WEB. 
 
 <b> Exemplos de minha galeria de projetos: </b>
 <br>
