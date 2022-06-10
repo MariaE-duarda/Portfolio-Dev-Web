@@ -1,4 +1,4 @@
-# Portifolio de Desenvolvimento Web
+# Portfólio de Desenvolvimento Web
 Portfólio com projetos WEB. 
 
 <b> Exemplos de minha galeria de projetos: </b>
