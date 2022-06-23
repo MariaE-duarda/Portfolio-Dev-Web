@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root{
+    --color-fundo: #174561;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    margin-top: 30px;
+    background: var(--color-fundo);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 40px;
+    letter-spacing: 1px;
+}
+
+#form {
+    margin-left: 465px;
+    position: relative;
+}
+
+input {
+    background-color: rgba(17, 17, 17, 0.727);
+    border-radius: 10px;
+    width: 350px;
+    height: 40px;
+    color: white;
+    padding-left: 20px;
+    border-color: black;
+}
+
+select {
+    background-color: rgba(17, 17, 17, 0.727);
+    border-radius: 10px;
+    width: 350px;
+    height: 40px;
+    color: white;
+    padding-left: 20px;
+    border-color: black; 
+    cursor: pointer; 
+}
+
+button{
+    background-color: #1363DF;
+    border-radius: 10px;
+    width: 350px;
+    height: 40px;
+    color: white;
+    border-color: black;  
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.square{
+    width: 350px;
+    height: 100px;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: #1363DF;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 350px;
+    color: white;
+    border: 3px solid rgba(17, 17, 17, 0.727); 
+}
