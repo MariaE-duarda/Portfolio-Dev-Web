@@ -134,7 +134,7 @@ Formulário criado com HTML e CSS.
 </br>
 </br>
 
-## _Décimo segundo primeiro_
+## _Décimo segundo projeto_
 <img src="https://github.com/MariaE-duarda/Imagens/blob/main/dashboard.png?raw=true">
 Projeto dashboard com HTML e CSS.
 
@@ -164,5 +164,16 @@ Este projeto é uma interface com animações dinâmicas.
 </br>
 </br>
 <a href = "https://miranha-style.netlify.app/"><img  height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=html5&logoColor=red&link=https://miranha-style.netlify.app/" target="_blank"></a>
+
+</br>
+</br>
+</br>
+
+## _Décimo quinto projeto_
+<img src="https://github.com/MariaE-duarda/Imagens/raw/main/Flappy%20Bird.jpg?raw=true">
+Clone do jogo Flappy Bird com HTML, CSS e JavaScript.
+
+</br>
+</br>
 
 
