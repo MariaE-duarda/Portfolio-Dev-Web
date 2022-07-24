@@ -9,7 +9,7 @@ Portfólio com projetos WEB.
 Meu objetivo com essa interface foi a de clonar o layout do Facebook, famosa rede social. 
 </br>
 </br>
-<a href = "https://page-facebook-clone.netlify.app/"><img  align="right" height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=blue&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://page-facebook-clone.netlify.app/"><img  align="right" width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=blue&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 </br>
 </br>
@@ -20,7 +20,7 @@ Meu objetivo com essa interface foi a de clonar o layout do Facebook, famosa red
 Este projeto é uma landing page, desenvolvida apenas com HTML e CSS.
 </br>
 </br>
-<a href = "https://site-landing-page.netlify.app/"><img  height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=purple&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://site-landing-page.netlify.app/"><img width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=purple&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 </br>
 </br>
@@ -33,7 +33,7 @@ Site desenvolvido com HTML, CSS e JavaScript. Sua função é de relógio e most
 </br>
 </br>
 
-<a href = "https://cronometro-javascript.netlify.app/"><img align="right" height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=green&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://cronometro-javascript.netlify.app/"><img align="right" width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=green&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 </br>
 </br>
 </br>
@@ -45,7 +45,7 @@ Esta é, novamente, outra landing page, desenvolvida com apenas HTML e CSS.
 </br>
 </br>
 
-<a href = "https://screen-login-purple.netlify.app/"><img  height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=cyan&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://screen-login-purple.netlify.app/"><img width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=cyan&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 </br>
 </br>
@@ -56,7 +56,7 @@ Site que faz a formulação de QRCodes, apartir de palavras e links com riscos d
 
 </br>
 </br>
-<a href = "https://qrcode-page.netlify.app/"><img align="right" height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=blue&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://qrcode-page.netlify.app/"><img align="right" width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=blue&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 </br>
 </br>
@@ -71,7 +71,7 @@ Meu objetivo com essa interface foi a de clonar o layout do Instagram, famosa re
 </br>
 </br>
 
-<a href = "https://qrcode-page.netlify.app/"><img height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=pink&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://qrcode-page.netlify.app/"><img width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=pink&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 </br>
 
@@ -82,7 +82,7 @@ Landing Page construída a partir de HTML e CSS.
 
 </br>
 </br>
-<a href = "https://landing-page-game.netlify.app/"><img align="right" height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=red&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://landing-page-game.netlify.app/"><img align="right" width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=red&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 </br>
 </br>
@@ -95,7 +95,7 @@ Exemplo de portfólio usando animação no cabeçalho.
 </br>
 </br>
 
-<a href = "https://eduarda-araujo.netlify.app/"><img height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=pink&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://eduarda-araujo.netlify.app/"><img width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=pink&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 </br>
 
@@ -105,7 +105,7 @@ Interface de login do instagram.
 
 </br>
 </br>
-<a href = "https://login-with-instagram.netlify.app/"><img align="right" height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=whiten&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://login-with-instagram.netlify.app/"><img align="right" width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=whiten&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 </br>
 </br>
@@ -117,7 +117,7 @@ Jogo da memória desenvolvido com HTML, CSS e JavaScript.
 </br>
 </br>
 
-<a href = "https://memoria-jogo.netlify.app/"><img height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=green&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://memoria-jogo.netlify.app/"><img width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=green&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 </br>
 </br>
@@ -128,7 +128,7 @@ Formulário criado com HTML e CSS.
 
 </br>
 </br>
-<a href = "https://form-complet.netlify.app/"><img align="right" height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=blue&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://form-complet.netlify.app/"><img align="right" width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=blue&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 </br>
 </br>
@@ -141,7 +141,7 @@ Projeto dashboard com HTML e CSS.
 </br>
 </br>
 
-<a href = "https://dashboard-create.netlify.app/"><img height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=red&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://dashboard-create.netlify.app/"><img width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=red&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
 
 </br>
 </br>
@@ -152,7 +152,7 @@ Jogo da forca criado do HTML, CSS e JavaScript Vanilla.
 
 </br>
 </br>
-<a href = "https://jogo-da-forca-vanila.netlify.app/"><img align="right" height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=grey&link=https://miranha-style.netlify.app/" target="_blank"></a>
+<a href = "https://jogo-da-forca-vanila.netlify.app/"><img align="right" width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=grey&link=https://miranha-style.netlify.app/" target="_blank"></a>
 
 </br>
 </br>
@@ -163,7 +163,7 @@ Jogo da forca criado do HTML, CSS e JavaScript Vanilla.
 Este projeto é uma interface com animações dinâmicas.
 </br>
 </br>
-<a href = "https://miranha-style.netlify.app/"><img  height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=red&link=https://miranha-style.netlify.app/" target="_blank"></a>
+<a href = "https://miranha-style.netlify.app/"><img width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=red&link=https://miranha-style.netlify.app/" target="_blank"></a>
 
 </br>
 </br>
@@ -182,6 +182,6 @@ Clone do jogo Flappy Bird com HTML, CSS e JavaScript.
 Este projeto é um clone da interface do site da Vercel.
 </br>
 </br>
-<a href = "https://clone-da-vercel.netlify.app/"><img  height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=purple&link=https://miranha-style.netlify.app/" target="_blank"></a>
+<a href = "https://clone-da-vercel.netlify.app/"><img  width="150" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=netlify&logoColor=purple&link=https://miranha-style.netlify.app/" target="_blank"></a>
 
 
