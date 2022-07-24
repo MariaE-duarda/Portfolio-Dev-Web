@@ -1,6 +1,8 @@
 # Vercel-HomePage
  🎯 Clone UI do site da Vercel 
 
+<br> 
+
 ## Resultado Final 
 <img src="https://github.com/MariaE-duarda/Imagens/blob/main/clone-versel.png?raw=true"> 
 
