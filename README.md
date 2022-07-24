@@ -152,8 +152,17 @@ Jogo da forca criado do HTML, CSS e JavaScript Vanilla.
 
 </br>
 </br>
-<a href = "https://jogo-da-forca-vanila.netlify.app/"><img align="right" height="44" width="180" src="https://img.shields.io/badge/-Visualizar-205375?style=square&logo=Github&logoColor=white&link=https://page-facebook-clone.netlify.app" target="_blank"></a>
+<a href = "https://jogo-da-forca-vanila.netlify.app/"><img align="right" height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=Github&logoColor=red&link=https://miranha-style.netlify.app/" target="_blank"></a>
 
 </br>
 </br>
+</br>
+
+## _Décimo quarto projeto_
+<img src="https://github.com/MariaE-duarda/Imagens/blob/main/spider-man.png?raw=true">
+Este projeto é uma interface com animações dinâmicas.
+</br>
+</br>
+<a href = "https://miranha-style.netlify.app/"><img  height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=Github&logoColor=red&link=https://miranha-style.netlify.app/" target="_blank"></a>
+
 
