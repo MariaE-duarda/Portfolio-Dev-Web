@@ -175,5 +175,13 @@ Clone do jogo Flappy Bird com HTML, CSS e JavaScript.
 
 </br>
 </br>
+</br>
+
+## _Décimo sexto projeto_
+<img src="https://github.com/MariaE-duarda/Imagens/raw/main/clone-versel.png?raw=true">
+Este projeto é um clone da interface do site da Vercel.
+</br>
+</br>
+<a href = "https://clone-da-vercel.netlify.app/"><img  height="40" width="160" src="https://img.shields.io/badge/-Visualizar-1B2430?style=square&logo=html5&logoColor=purple&link=https://miranha-style.netlify.app/" target="_blank"></a>
 
 
